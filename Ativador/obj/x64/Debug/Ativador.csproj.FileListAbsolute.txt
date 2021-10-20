@@ -1,0 +1,10 @@
+C:\Users\Administrador\Documents\Ativador\Ativador\bin\x64\Debug\Ativador.exe.config
+C:\Users\Administrador\Documents\Ativador\Ativador\bin\x64\Debug\Ativador.exe
+C:\Users\Administrador\Documents\Ativador\Ativador\bin\x64\Debug\Ativador.pdb
+C:\Users\Administrador\Documents\Ativador\Ativador\obj\x64\Debug\Ativador.Form1.resources
+C:\Users\Administrador\Documents\Ativador\Ativador\obj\x64\Debug\Ativador.Properties.Resources.resources
+C:\Users\Administrador\Documents\Ativador\Ativador\obj\x64\Debug\Ativador.csproj.GenerateResource.cache
+C:\Users\Administrador\Documents\Ativador\Ativador\obj\x64\Debug\Ativador.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Ativador\Ativador\obj\x64\Debug\Ativador.exe
+C:\Users\Administrador\Documents\Ativador\Ativador\obj\x64\Debug\Ativador.pdb
+C:\Users\Administrador\Documents\Ativador\Ativador\obj\x64\Debug\Ativador.csproj.AssemblyReference.cache
